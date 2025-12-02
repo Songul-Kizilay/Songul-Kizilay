@@ -58,12 +58,7 @@
 ---
 
 ### Support Me
-<p>
-  <a href="buymeacoffee.com/songulkizin" target="_blank">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
-<br><br>
+<a href="https://www.buymeacoffee.com/songulkizin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ---
 
