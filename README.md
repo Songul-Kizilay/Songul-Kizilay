@@ -57,10 +57,6 @@
 
 ---
 ### Support Me
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUxOG96N2NnbWZyYXkweWdoOXFwengxczNhZjM5M2oyNzg3YnhtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TDQOtnWgsBx99cNoyH/giphy.gif" alt="Buy Me A Coffee" width="120" />
-
-Scan the QR code to support me ☕:
-
 <img src="https://github.com/Songul-Kizilay/Songul-Kizilay/blob/main/qr-code.png" alt="Buy Me A Coffee QR" width="150"/>
 
 
