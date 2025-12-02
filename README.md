@@ -19,7 +19,6 @@
 - 🎯 My long‑term goal is to become a **Web Security Specialist**
 - 📫 You can reach me at: **songulkizilay46@gmail.com**
 
-
 ---
 
 ### Blog Posts
@@ -56,15 +55,20 @@
 </p>
 
 ---
+
 ### Support Me
+Scan the QR code to support me ☕:
+
 <img src="https://github.com/Songul-Kizilay/Songul-Kizilay/blob/main/qr-code.png" alt="Buy Me A Coffee QR" width="150"/>
 
-
+---
 
 ### GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=songul-kizilay&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=songul-kizilay&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songul-kizilay&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=songul-kizilay" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=songul-kizilay" alt="Streak Stats" />
 </p>
