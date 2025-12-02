@@ -21,9 +21,11 @@
 ---
 
 ### Blog Posts
-- [Stay Logged-In Cookie Brute-Force Lab Writeup](https://medium.com/@songulkizilay/stay-logged-in-cookie-brute-force-lab-writeup)
-- [Password Reset Poisoning Lab](https://medium.com/@songulkizilay/password-reset-poisoning-lab)
-<!-- BLOG-POST-LIST:END -->
+- [Brute‑forcing a Stay‑Logged‑In Cookie Lab](https://medium.com/@songulkizilay/portswigger-lab-brute-forcing-a-stay-logged-in-cookie-99c841c14b97)  
+- [Username Enumeration via Response Timing Lab](https://medium.com/@songulkizilay/portswigger-academy-lab-username-enumeration-via-response-timing-writeup-df23aeea8bd8)  
+- [Hack The Box: Nibbles Writeup](https://medium.com/@songulkizilay/hackthebox-nibbles-writeup-0feb6141baf1)  
+- [Hack The Box: Shocker Writeup](https://medium.com/@songulkizilay/hackthebox-shocker-writeup-3bdf669d5834)  
+- [TryHackMe: Pyramid of Pain Walkthrough](https://medium.com/@songulkizilay/tryhackme-pyramid-of-pain-walkthrough-f51a2d3096d1)  
 
 ---
 
