@@ -59,8 +59,6 @@
 
 ### Support Me
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUxOG96N2NnbWZyYXkweWdoOXFwengxczNhZjM5M2oyNzg3YnhtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TDQOtnWgsBx99cNoyH/giphy.gif" alt="Buy Me A Coffee" width="120" />
-
-
 [Buy Me A Coffee](https://www.buymeacoffee.com/songulkizin)
 
 ---
