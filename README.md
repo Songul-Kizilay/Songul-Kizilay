@@ -11,12 +11,14 @@
 ---
 
 ### About Me
-- 🌱 I’m currently learning **Advanced Web Exploitation**
-- 👯 I’m looking to collaborate on **Open-source security tools**
-- 🤝 I’m looking for help with **Advanced WAF Bypass Techniques**
-- 📝 I regularly write articles on [Medium](https://medium.com/@songulkizilay)
-- 💬 Ask me about **Web Security, Bug Bounty, Ethical Hacking**
-- 📫 How to reach me: **songulkizilay46@gmail.com**
+- 🌱 I’m currently focusing on **Web Security, Manual Pentesting, and PortSwigger labs**
+- 🐞 I enjoy solving **HTB, THM, and PortSwigger** challenges and writing detailed writeups
+- 👩‍💻 I develop **small security tools** and automate recon/exploit workflows
+- 📝 I regularly publish technical articles on **Medium**
+- 💬 Ask me about **BurpSuite, Web Exploitation, Bug Bounty methodologies**
+- 🎯 My long‑term goal is to become a **Web Security Specialist**
+- 📫 You can reach me at: **songulkizilay46@gmail.com**
+
 
 ---
 
