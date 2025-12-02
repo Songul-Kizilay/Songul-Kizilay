@@ -58,7 +58,7 @@
 ---
 
 ### Support Me
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/songulkizin)
+[Buy Me A Coffee](https://www.buymeacoffee.com/songulkizin)
 
 ---
 
