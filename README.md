@@ -65,7 +65,6 @@ Scan the QR code to support me ☕:
 
 ### GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=songul-kizilay" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=songul-kizilay" alt="Streak Stats" />
 </p>
