@@ -61,10 +61,3 @@ Scan the QR code to support me ☕:
 
 <img src="https://github.com/Songul-Kizilay/Songul-Kizilay/blob/main/qr-code.png" alt="Buy Me A Coffee QR" width="150"/>
 
----
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=songul-kizilay&theme=dark&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=songul-kizilay&hide_border=true" />
-  </picture>
-</p>
