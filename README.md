@@ -47,7 +47,7 @@
 ---
 
 ### Support Me
-Scan the QR code to support me ☕:
+Scan the QR code to support me ☕
 
 <img src="https://github.com/Songul-Kizilay/Songul-Kizilay/blob/main/qr-code.png" alt="Buy Me A Coffee QR" width="150"/>
 
