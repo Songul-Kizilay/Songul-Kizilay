@@ -9,8 +9,6 @@
 - 📝 I regularly publish technical articles on **Medium**
 - 💬 Ask me about **BurpSuite, Web Exploitation, Bug Bounty methodologies**
 - 🎯 My long‑term goal is to become a **Web Security Specialist**
-- 📫 You can reach me at: **songulkizilay46@gmail.com**
-
 ---
 
 ### Blog Posts
