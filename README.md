@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Songül Kızılay</h1>
+<h1 align="center">Hi 👋, I'm Songül Kızılay Özügürler</h1>
 <h3 align="center">"Passionate About Web Security and Ethical Hacking"</h3>
 
 
