@@ -185,9 +185,12 @@ print(medsa.motto())
 
 <br><br>
 
-<a href="https://github.com/Songul-Kizilay">
-  <img src="https://github-profile-trophy.vercel.app/api/?username=Songul-Kizilay&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Focus-Web%20Security-22D3EE?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Mode-Manual%20Testing-A78BFA?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Research-Bug%20Bounty-34D399?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Writing-Security%20Writeups-FACC15?style=for-the-badge&labelColor=111827" />
+</p>
 
 <br><br>
 
