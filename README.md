@@ -20,7 +20,7 @@ medsa@sixpon:~$ cat bio.txt
 🧠 Daily grinder on **PortSwigger Academy**, **Hack The Box**, **TryHackMe**  
 🐛 Active bug bounty hunter | HackerOne: **[@meddsa](https://hackerone.com/meddsa)**  
 📝 Technical writer sharing **real-world attack chains** on [Medium](https://medium.com/@songulkizilay)  
-🎓 Working towards **Burp Suite Certified Practitioner (BSCP)**  
+🎓 **CEH Practical** certified | Working towards **BSCP** (Burp Suite Certified Practitioner)  
 ⚙️ Building automation tools for recon & exploitation workflows  
 🎥 Creating cybersecurity content on **[YouTube](https://youtube.com/sixpon)** | **[sixpon.com](https://sixpon.com)**
 
@@ -115,7 +115,7 @@ medsa@sixpon:~$ cat bio.txt
 
 ```mermaid
 graph LR
-    A[eJPT ✅] --> B[BSCP 🎯]
+    A[CEH Practical ✅] --> B[BSCP 🎯]
     B --> C[OSCP 📅]
     C --> D[OSWE 🔮]
     D --> E[OSCE³ 🌟]
@@ -178,6 +178,18 @@ graph LR
 *Detailed public reports coming soon after disclosure periods*
 
 </details>
+
+---
+
+## 🎖️ Certifications & Achievements
+
+<div align="center">
+
+![CEH Practical](https://img.shields.io/badge/CEH_Practical-Certified-red?style=for-the-badge&logo=eccouncil&logoColor=white)
+![BSCP](https://img.shields.io/badge/BSCP-In_Progress-yellow?style=for-the-badge&logo=portswigger&logoColor=white)
+![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-Hunter-green?style=for-the-badge&logo=hackerone&logoColor=white)
+
+</div>
 
 ---
 
