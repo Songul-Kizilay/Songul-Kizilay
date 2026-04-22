@@ -2,9 +2,9 @@
 
 # 👾 Songül Kızılay Özügürler
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Web+Security+Enthusiast;Manual+Pentester;Bug+Bounty+Hunter;BSCP+Candidate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Web+Security+Enthusiast;Manual+Pentester;Bug+Bounty+Hunter;BSCP+Candidate;Security+Researcher)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=songul-kizilay&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.Acom/ghpvc/?username=songul-kizilay&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
@@ -22,8 +22,20 @@ medsa@sixpon:~$ cat bio.txt
 📝 Technical writer sharing **real-world attack chains** on [Medium](https://medium.com/@songulkizilay)  
 🎓 Working towards **Burp Suite Certified Practitioner (BSCP)**  
 ⚙️ Building automation tools for recon & exploitation workflows  
+🎥 Creating cybersecurity content on **[YouTube](https://youtube.com/sixpon)** | **[sixpon.com](https://sixpon.com)**
 
 > *"Real attackers don't just press 'scan' — they think, analyze, and exploit manually."*
+
+---
+
+## 🎯 Current Year Goals
+
+- [ ] 🏆 Achieve BSCP Certification
+- [ ] 🐛 Submit 50+ Valid Bug Bounty Reports
+- [ ] 📝 Publish 30+ Security Writeups on Medium
+- [ ] 🎓 Complete HTB Bug Bounty Hunter Path
+- [ ] 🔥 Reach Top 100 on HackerOne Turkey
+- [ ] 🎬 Grow YouTube channel to 1K subscribers
 
 ---
 
@@ -54,28 +66,90 @@ medsa@sixpon:~$ cat bio.txt
 
 ---
 
+## 📊 Skill Proficiency
+
+**Web Application Security**  
+![Web Security](https://progress-bar.dev/85/?title=Web%20Security&width=400&color=e05397)
+
+**Penetration Testing**  
+![Pentesting](https://progress-bar.dev/80/?title=Penetration%20Testing&width=400&color=e05397)
+
+**Bug Bounty Hunting**  
+![Bug Bounty](https://progress-bar.dev/75/?title=Bug%20Bounty&width=400&color=e05397)
+
+**Manual Code Review**  
+![Code Review](https://progress-bar.dev/70/?title=Code%20Review&width=400&color=e05397)
+
+**Exploit Development**  
+![Exploit Dev](https://progress-bar.dev/65/?title=Exploit%20Development&width=400&color=e05397)
+
+---
+
+## 🎓 Certification Journey
+
+```mermaid
+graph LR
+    A[eJPT ✅] --> B[BSCP 🎯]
+    B --> C[OSCP 📅]
+    C --> D[OSWE 🔮]
+    D --> E[OSCE³ 🌟]
+    
+    style A fill:#00ff00,stroke:#00ff00,color:#000
+    style B fill:#ffff00,stroke:#ffff00,color:#000
+    style C fill:#ff9900,stroke:#ff9900,color:#000
+    style D fill:#ff6600,stroke:#ff6600,color:#fff
+    style E fill:#ff0000,stroke:#ff0000,color:#fff
+```
+
+---
+
 ## 📚 Featured Security Writeups
 
 <details>
 <summary>🔓 <b>PortSwigger Labs</b></summary>
 
+<br>
+
 - 🔗 [Brute-forcing a Stay-Logged-In Cookie](https://medium.com/@songulkizilay/portswigger-lab-brute-forcing-a-stay-logged-in-cookie-99c841c14b97)
 - 🔗 [Username Enumeration via Response Timing](https://medium.com/@songulkizilay/portswigger-academy-lab-username-enumeration-via-response-timing-writeup-df23aeea8bd8)
+- 🔗 [Blind SQL Injection with Conditional Responses](https://medium.com/@songulkizilay)
+- 🔗 [UNION-based SQLi Exploitation](https://medium.com/@songulkizilay)
 
 </details>
 
 <details>
 <summary>📦 <b>Hack The Box Machines</b></summary>
 
+<br>
+
 - 🔗 [HTB: Nibbles - Easy Linux Box](https://medium.com/@songulkizilay/hackthebox-nibbles-writeup-0feb6141baf1)
 - 🔗 [HTB: Shocker - CVE-2014-6271 Exploitation](https://medium.com/@songulkizilay/hackthebox-shocker-writeup-3bdf669d5834)
+- 🔗 [HTB: Lame - SMB & Samba Exploitation](https://medium.com/@songulkizilay)
 
 </details>
 
 <details>
 <summary>🚩 <b>TryHackMe Rooms</b></summary>
 
+<br>
+
 - 🔗 [Pyramid of Pain - Threat Intelligence](https://medium.com/@songulkizilay/tryhackme-pyramid-of-pain-walkthrough-f51a2d3096d1)
+- 🔗 [OWASP Top 10 - Web Application Security](https://medium.com/@songulkizilay)
+- 🔗 [Web Fundamentals - Complete Walkthrough](https://medium.com/@songulkizilay)
+
+</details>
+
+<details>
+<summary>🐛 <b>Bug Bounty Reports</b></summary>
+
+<br>
+
+- 🔒 [IDOR in GraphQL API - Private Program]
+- 🔒 [Subdomain Takeover via Dangling CNAME - CLEAR]
+- 🔒 [Blind SQL Injection in Search Function - Private Program]
+- 🔒 [OAuth2 Redirect URI Bypass - Whatnot]
+
+*Detailed public reports coming soon after disclosure periods*
 
 </details>
 
@@ -103,6 +177,7 @@ medsa@sixpon:~$ cat bio.txt
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
@@ -110,11 +185,19 @@ medsa@sixpon:~$ cat bio.txt
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=songul-kizilay&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=songul-kizilay&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=songul-kizilay&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=songul-kizilay&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=songul-kizilay&theme=radical&hide_border=true)
+</div>
+
+---
+
+## 🔥 Hacking Streak
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=songul-kizilay&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
 
 </div>
 
@@ -127,6 +210,37 @@ medsa@sixpon:~$ cat bio.txt
 ![Trophy](https://github-profile-trophy.vercel.app/?username=songul-kizilay&theme=radical&no-frame=true&row=1&column=7)
 
 </div>
+
+---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=songul-kizilay&repo=songul-kizilay&theme=radical&hide_border=true)](https://github.com/songul-kizilay/songul-kizilay)
+
+</div>
+
+---
+
+## 🎖️ HackerOne Stats
+
+<div align="center">
+
+![Reputation](https://img.shields.io/badge/Reputation-Building-red?style=for-the-badge&logo=hackerone)
+![Rank](https://img.shields.io/badge/Rank-Rising-blue?style=for-the-badge&logo=hackerone)
+![Reports](https://img.shields.io/badge/Valid_Reports-Confidential-green?style=for-the-badge&logo=hackerone)
+
+**🎯 Active on Private Programs | 🐛 Focused on Web Security**
+
+</div>
+
+---
+
+## 💻 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -148,7 +262,7 @@ medsa@sixpon:~$ cat bio.txt
 ## 💡 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- This section can be auto-updated with GitHub Actions -->
+<!-- This section will be automatically updated with your latest Medium articles -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -157,7 +271,7 @@ medsa@sixpon:~$ cat bio.txt
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=songul-kizilay&theme=react-dark&hide_border=true)](https://github.com/songul-kizilay)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=songul-kizilay&theme=react-dark&hide_border=true&area=true)](https://github.com/songul-kizilay)
 
 </div>
 
@@ -173,6 +287,9 @@ If you find my security research and writeups valuable, consider supporting me:
 
 **Every bug found is a lesson learned. Every writeup shared is knowledge multiplied.** 🚀
 
+[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/songulkizilay)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/songulkizilay)
+
 </div>
 
 ---
@@ -182,5 +299,11 @@ If you find my security research and writeups valuable, consider supporting me:
 ### ⚡ "Manual exploitation over blind automation — because real attackers think, not just scan."
 
 ![Snake animation](https://github.com/songul-kizilay/songul-kizilay/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+**💼 Open for Security Collaborations | 🐛 Bug Bounty Partnerships | 📧 Contact: songulkizilay@gmail.com**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
