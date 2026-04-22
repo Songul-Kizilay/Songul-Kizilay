@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Web+Security+Enthusiast;Manual+Pentester;Bug+Bounty+Hunter;BSCP+Candidate;Security+Researcher)](https://git.io/typing-svg)
 
-<img src="https://komarev.Acom/ghpvc/?username=songul-kizilay&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+![Profile Views](https://komarev.com/ghpvc/?username=Songul-Kizilay&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -68,20 +68,46 @@ medsa@sixpon:~$ cat bio.txt
 
 ## 📊 Skill Proficiency
 
-**Web Application Security**  
-![Web Security](https://progress-bar.dev/85/?title=Web%20Security&width=400&color=e05397)
+<table>
+<tr>
+<td width="50%">
 
-**Penetration Testing**  
-![Pentesting](https://progress-bar.dev/80/?title=Penetration%20Testing&width=400&color=e05397)
+**Web Application Security**
+```
+███████████████████░░  85%
+```
 
-**Bug Bounty Hunting**  
-![Bug Bounty](https://progress-bar.dev/75/?title=Bug%20Bounty&width=400&color=e05397)
+**Penetration Testing**
+```
+████████████████░░░░  80%
+```
 
-**Manual Code Review**  
-![Code Review](https://progress-bar.dev/70/?title=Code%20Review&width=400&color=e05397)
+**Bug Bounty Hunting**
+```
+███████████████░░░░░  75%
+```
 
-**Exploit Development**  
-![Exploit Dev](https://progress-bar.dev/65/?title=Exploit%20Development&width=400&color=e05397)
+</td>
+<td width="50%">
+
+**Manual Code Review**
+```
+██████████████░░░░░░  70%
+```
+
+**Exploit Development**
+```
+█████████████░░░░░░░  65%
+```
+
+**API Security Testing**
+```
+███████████████░░░░░  75%
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -184,30 +210,30 @@ graph LR
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=songul-kizilay&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=songul-kizilay&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Songul-Kizilay&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 
-</div>
-
----
-
-## 🔥 Hacking Streak
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=songul-kizilay&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Songul-Kizilay&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🔥 Contribution Streak
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=songul-kizilay&theme=radical&no-frame=true&row=1&column=7)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Songul-Kizilay&theme=radical&hide_border=true" alt="Songul's streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Songul-Kizilay&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies"/>
 
 </div>
 
@@ -217,7 +243,9 @@ graph LR
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=songul-kizilay&repo=songul-kizilay&theme=radical&hide_border=true)](https://github.com/songul-kizilay/songul-kizilay)
+<a href="https://github.com/Songul-Kizilay/Songul-Kizilay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Songul-Kizilay&repo=Songul-Kizilay&theme=radical&hide_border=true" />
+</a>
 
 </div>
 
@@ -267,11 +295,11 @@ graph LR
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=songul-kizilay&theme=react-dark&hide_border=true&area=true)](https://github.com/songul-kizilay)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Songul-Kizilay&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -287,9 +315,6 @@ If you find my security research and writeups valuable, consider supporting me:
 
 **Every bug found is a lesson learned. Every writeup shared is knowledge multiplied.** 🚀
 
-[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/songulkizilay)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/songulkizilay)
-
 </div>
 
 ---
@@ -298,7 +323,7 @@ If you find my security research and writeups valuable, consider supporting me:
 
 ### ⚡ "Manual exploitation over blind automation — because real attackers think, not just scan."
 
-![Snake animation](https://github.com/songul-kizilay/songul-kizilay/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Songul-Kizilay/Songul-Kizilay/output/github-contribution-grid-snake.svg)
 
 ---
 
