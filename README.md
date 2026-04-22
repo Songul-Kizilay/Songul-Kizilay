@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Web+Security+Enthusiast+🔐;Manual+Pentester+🎯;Bug+Bounty+Hunter+🐛;CEH+Practical+Certified+🏆;BSCP+Candidate+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&height=60&lines=Web+Security+Enthusiast+🔐;Manual+Pentester+🎯;Bug+Bounty+Hunter+🐛;CEH+Practical+Certified+🏆;BSCP+Candidate+📚" alt="Typing SVG" />
 </a>
 
 <!-- Profile Stats -->
@@ -152,13 +152,22 @@ medsa.say_hi()
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Songul-Kizilay&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true&include_all_commits=true" />
+<a href="https://github.com/Songul-Kizilay">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Songul-Kizilay&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Songul-Kizilay&layout=compact&langs_count=8&theme=radical"/>
+</a>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Songul-Kizilay&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />
+<br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Songul-Kizilay&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" />
+<a href="https://github.com/Songul-Kizilay">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Songul-Kizilay&theme=radical&hide_border=false" />
+</a>
 
-<img width="49%" src="https://github-profile-trophy.vercel.app/api/?username=Songul-Kizilay&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=4" />
+<br><br>
+
+<a href="https://github.com/Songul-Kizilay">
+  <img src="https://github-profile-trophy.vercel.app/api/?username=Songul-Kizilay&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" />
+</a>
 
 </div>
 
