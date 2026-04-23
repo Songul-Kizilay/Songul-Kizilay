@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00F7F7&center=true&vCenter=true&width=500&lines=Web+Security;Manual+Pentester;Bug+Bounty+Hunter;BSCP+Candidate" />
 
-<p>
+<p>x
   <img src="https://komarev.com/ghpvc/?username=Songul-Kizilay&label=Profile%20Views&color=blueviolet&style=flat-square" />
   <img src="https://img.shields.io/github/followers/Songul-Kizilay?label=Followers&style=flat-square&color=blue" />
 </p>
