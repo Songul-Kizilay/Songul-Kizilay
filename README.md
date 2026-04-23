@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Songul-Kizilay/Songul-Kizilay/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Songul-Kizilay/Songul-Kizilay/output/github-snake.svg" alt="Snake animation" />
 </p>
 
 ---
