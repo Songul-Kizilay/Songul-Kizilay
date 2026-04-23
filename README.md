@@ -59,13 +59,7 @@ class SecurityResearcher:
 
 ## 📚 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [CROSS-SITE SCRIPTING &lpar;XSS&rpar;](https://songulkizilay.medium.com/cross-site-scripting-xss-fd3d3ad347ed?source=rss-80853d0fb6d2------2)
-- [Lab: SQL injection attack, listing the database contents on Oracle](https://songulkizilay.medium.com/lab-sql-injection-attack-listing-the-database-contents-on-oracle-f16cac8cdeef?source=rss-80853d0fb6d2------2)
-- [Lab: SQL injection attack, listing the database contents on non-Oracle databases](https://songulkizilay.medium.com/lab-sql-injection-attack-listing-the-database-contents-on-non-oracle-databases-e4141d7ffe2a?source=rss-80853d0fb6d2------2)
-- [Lab: SQL injection attack, querying the database type and version on Oracle](https://songulkizilay.medium.com/lab-sql-injection-attack-querying-the-database-type-and-version-on-oracle-785ab39dd7e4?source=rss-80853d0fb6d2------2)
-- [SQL injection with filter bypass via XML encoding](https://songulkizilay.medium.com/sql-injection-with-filter-bypass-via-xml-encoding-3f11ae985906?source=rss-80853d0fb6d2------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [CROSS-SITE SCRIPTING &lpar;XSS&rpar;](https://songulkizilay.medium.com/cross-site-scripting-xss-fd3d3ad347ed?source=rss-80853d0fb6d2------2)- [Lab: SQL injection attack, listing the database contents on Oracle](https://songulkizilay.medium.com/lab-sql-injection-attack-listing-the-database-contents-on-oracle-f16cac8cdeef?source=rss-80853d0fb6d2------2)- [Lab: SQL injection attack, listing the database contents on non-Oracle databases](https://songulkizilay.medium.com/lab-sql-injection-attack-listing-the-database-contents-on-non-oracle-databases-e4141d7ffe2a?source=rss-80853d0fb6d2------2)- [Lab: SQL injection attack, querying the database type and version on Oracle](https://songulkizilay.medium.com/lab-sql-injection-attack-querying-the-database-type-and-version-on-oracle-785ab39dd7e4?source=rss-80853d0fb6d2------2)- [SQL injection with filter bypass via XML encoding](https://songulkizilay.medium.com/sql-injection-with-filter-bypass-via-xml-encoding-3f11ae985906?source=rss-80853d0fb6d2------2)<!-- BLOG-POST-LIST:END -->
 
 👉 [Read more on Medium](https://medium.com/@songulkizilay)
 
