@@ -166,7 +166,7 @@ medsa.say_hi()
 <br><br>
 
 <a href="https://github.com/Songul-Kizilay">
-  <img src="https://github-profile-trophy.vercel.app/api/?username=Songul-Kizilay&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/api/?username=songul-kizilay&theme=radical&margin-w=4&row=1&column=6" />
 </a>
 
 </div>
