@@ -60,6 +60,8 @@ class SecurityResearcher:
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- 📝 **[Lab: Source code disclosure via backup files](https://songulkizilay.medium.com/lab-source-code-disclosure-via-backup-files-21c5fb8a5c7a?source=rss-80853d0fb6d2------2)**
+
 - 📝 **[Lab: Information disclosure on debug page](https://songulkizilay.medium.com/lab-information-disclosure-on-debug-page-ef0712c57dd7?source=rss-80853d0fb6d2------2)**
 
 - 📝 **[Information disclosure in error messages](https://songulkizilay.medium.com/information-disclosure-in-error-messages-8ff9b77d825f?source=rss-80853d0fb6d2------2)**
@@ -67,8 +69,6 @@ class SecurityResearcher:
 - 📝 **[Lab: Stored XSS into HTML context with nothing encoded](https://songulkizilay.medium.com/lab-stored-xss-into-html-context-with-nothing-encoded-1eb5f6e9c875?source=rss-80853d0fb6d2------2)**
 
 - 📝 **[Lab: Reflected XSS into HTML context with nothing encoded](https://songulkizilay.medium.com/lab-reflected-xss-into-html-context-with-nothing-encoded-91d6c54b6c9b?source=rss-80853d0fb6d2------2)**
-
-- 📝 **[CROSS-SITE SCRIPTING &lpar;XSS&rpar;](https://songulkizilay.medium.com/cross-site-scripting-xss-fd3d3ad347ed?source=rss-80853d0fb6d2------2)**
 <!-- BLOG-POST-LIST:END -->
 
 👉 [Read more on Medium](https://medium.com/@songulkizilay)
