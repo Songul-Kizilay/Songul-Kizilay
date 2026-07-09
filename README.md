@@ -1,93 +1,104 @@
-<div align="center">
+# Hi, I'm Songül Kızılay 👋
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Songül%20Kızılay%20Özügürler&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+Computer Engineer interested in web application security, bug bounty, and security research.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00F7F7&center=true&vCenter=true&width=500&lines=Web+Security;Manual+Pentester;Bug+Bounty+Hunter;BSCP+Candidate" />
+I enjoy understanding how web applications work, solving security labs, writing about what I learn, and building small tools that make security testing more practical.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Songul-Kizilay&label=Profile%20Views&color=blueviolet&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Songul-Kizilay?label=Followers&style=flat-square&color=blue" />
-</p>
-
-</div>
+I'm currently exploring how AI can support security researchers during reconnaissance and analysis without replacing manual testing.
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Songul-Kizilay/Songul-Kizilay/output/github-snake.svg" alt="Snake animation" />
-</p>
+## What I'm Working On
+
+- 🛡️ Building **Cerberus**, an AI-assisted security research project
+- 📚 Solving PortSwigger Web Security Academy labs
+- ✍️ Writing technical notes on Medium
+- 🎯 Preparing for the Burp Suite Certified Practitioner (BSCP) exam
 
 ---
 
-## 👨‍💻 About Me
+## Projects
 
-```python
-class SecurityResearcher:
-    def __init__(self):
-        self.name = "Songül Kızılay Özügürler"
-        self.role = "Web Security Specialist"
-        self.focus = "Manual Pentesting & Bug Bounty"
+### Cerberus *(Work in Progress)*
 
-    def mindset(self):
-        return "Real attackers think, not just scan 🎯"
-```
-
-### 🔥 Quick Facts
-
-- 🔐 Focused on Web Security & Manual Exploitation
-- 🧠 Daily practice on PortSwigger, HTB, TryHackMe
-- 🐛 HackerOne: https://hackerone.com/meddsa
-- 📝 Medium: https://medium.com/@songulkizilay
-- 🎯 Preparing for BSCP
-- ⚙️ Building recon tools
-- 🎥 https://youtube.com/sixpon
+An AI-assisted security research project focused on helping security researchers during reconnaissance, technology analysis, and learning.
 
 ---
 
-## 📊 GitHub Stats
+### Serenity
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Songul-Kizilay&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Songul-Kizilay&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Songul-Kizilay&theme=radical&hide_border=true"/>
-</p>
+A reconnaissance automation tool that combines several open-source security tools into a single workflow.
 
 ---
 
-## 📚 Latest Blog Posts
+### unionhunter
 
-<!-- BLOG-POST-LIST:START -->
-- 📝 **[Lab: Information disclosure in version control history](https://songulkizilay.medium.com/lab-information-disclosure-in-version-control-history-a4790fbdaad9?source=rss-80853d0fb6d2------2)**
-
-- 📝 **[Lab: Authentication bypass via information disclosure](https://songulkizilay.medium.com/lab-authentication-bypass-via-information-disclosure-f2f97e2365b3?source=rss-80853d0fb6d2------2)**
-
-- 📝 **[Lab: Source code disclosure via backup files](https://songulkizilay.medium.com/lab-source-code-disclosure-via-backup-files-21c5fb8a5c7a?source=rss-80853d0fb6d2------2)**
-
-- 📝 **[Lab: Information disclosure on debug page](https://songulkizilay.medium.com/lab-information-disclosure-on-debug-page-ef0712c57dd7?source=rss-80853d0fb6d2------2)**
-
-- 📝 **[Information disclosure in error messages](https://songulkizilay.medium.com/information-disclosure-in-error-messages-8ff9b77d825f?source=rss-80853d0fb6d2------2)**
-<!-- BLOG-POST-LIST:END -->
-
-👉 [Read more on Medium](https://medium.com/@songulkizilay)
+A lightweight helper for identifying potential UNION-based SQL injection entry points before manual testing.
 
 ---
 
-## 🌐 Connect
+### xfcheck
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/songulkizilay/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@songulkizilay"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://hackerone.com/meddsa"><img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
-  <a href="https://youtube.com/sixpon"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
+A small utility for checking whether applications process X-Forwarded-* headers.
 
 ---
 
-<div align="center">
-  <b>⚡ Manual exploitation > blind automation</b>
-</div>
+### PortswiggerAllLabs
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+My personal notes and write-ups while studying PortSwigger Web Security Academy.
+
+---
+
+## Interests
+
+- Web Application Security
+- Bug Bounty
+- Reconnaissance
+- Python
+- Security Automation
+- AI-assisted Security Research
+
+---
+
+## Technologies
+
+**Languages**
+
+- Python
+- Bash
+
+**Security**
+
+- Burp Suite
+- Nuclei
+- httpx
+- ffuf
+- Katana
+- OWASP ZAP
+- Nmap
+
+---
+
+## Writing
+
+I publish notes and write-ups about web security and PortSwigger labs on Medium.
+
+Medium
+
+➡️ https://medium.com/@songulkizilay
+
+---
+
+## Contact
+
+LinkedIn
+
+➡️ https://linkedin.com/in/songulkizilay
+
+HackerOne
+
+➡️ https://hackerone.com/meddsa
+
+YouTube
+
+➡️ https://youtube.com/sixpon
