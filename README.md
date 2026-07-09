@@ -1,62 +1,68 @@
 # Hi, I'm Songül Kızılay 👋
 
-Computer Engineer interested in web application security, bug bounty, and security research.
+I'm a Computer Engineer interested in web application security, bug bounty, and security research.
 
-I enjoy understanding how web applications work, solving security labs, writing about what I learn, and building small tools that make security testing more practical.
+I enjoy understanding how web applications work, documenting what I learn, and building tools that make security testing more practical.
 
-I'm currently exploring how AI can support security researchers during reconnaissance and analysis without replacing manual testing.
-
----
-
-## What I'm Working On
-
-- 🛡️ Building **Cerberus**, an AI-assisted security research project
-- 📚 Solving PortSwigger Web Security Academy labs
-- ✍️ Writing technical notes on Medium
-- 🎯 Preparing for the Burp Suite Certified Practitioner (BSCP) exam
+Recently, I've also started exploring how AI can assist security researchers during reconnaissance and analysis.
 
 ---
 
-## Projects
+## Current Focus
+
+- Web Application Security
+- Bug Bounty
+- PortSwigger Web Security Academy
+- Security Automation
+- AI-assisted Security Research
+
+---
+
+## Current Project
 
 ### Cerberus *(Work in Progress)*
 
-An AI-assisted security research project focused on helping security researchers during reconnaissance, technology analysis, and learning.
+Cerberus is an AI-assisted security research project designed to support reconnaissance, technology analysis, and security learning.
+
+The project is currently in active development.
 
 ---
 
-### Serenity
+## Selected Projects
 
-A reconnaissance automation tool that combines several open-source security tools into a single workflow.
-
----
-
-### unionhunter
-
-A lightweight helper for identifying potential UNION-based SQL injection entry points before manual testing.
-
----
-
-### xfcheck
-
-A small utility for checking whether applications process X-Forwarded-* headers.
+- **Cerberus** *(In Development)* – AI-assisted security research project.
+- **Serenity** – Reconnaissance automation framework.
+- **unionhunter** – Helper tool for identifying potential UNION-based SQL injection entry points.
+- **xfcheck** – Utility for checking X-Forwarded-* header handling.
+- **favicon.hash** – Python tool for favicon hash generation.
+- **PortswiggerAllLabs** – My personal notes and write-ups from PortSwigger Web Security Academy.
 
 ---
 
-### PortswiggerAllLabs
-
-My personal notes and write-ups while studying PortSwigger Web Security Academy.
-
----
-
-## Interests
+## Technical Interests
 
 - Web Application Security
 - Bug Bounty
 - Reconnaissance
 - Python
 - Security Automation
-- AI-assisted Security Research
+- Artificial Intelligence for Security
+
+---
+
+## Technical Writing
+
+I document my learning process through technical articles and lab write-ups.
+
+🌐 Website & Articles
+
+https://songul-kizilay.github.io/
+
+---
+
+## Academic Work
+
+Co-author of a publication on the security comparison of open-source Web Application Firewalls (WAF).
 
 ---
 
@@ -71,34 +77,33 @@ My personal notes and write-ups while studying PortSwigger Web Security Academy.
 
 - Burp Suite
 - Nuclei
+- Katana
 - httpx
 - ffuf
-- Katana
-- OWASP ZAP
 - Nmap
+- OWASP ZAP
 
 ---
 
-## Writing
+## Currently Learning
 
-I publish notes and write-ups about web security and PortSwigger labs on Medium.
-
-Medium
-
-➡️ https://medium.com/@songulkizilay
+- Burp Suite Certified Practitioner (BSCP)
+- AI Agents
+- Security Automation
+- Large Language Models
 
 ---
 
 ## Contact
 
-LinkedIn
+**LinkedIn**
 
-➡️ https://linkedin.com/in/songulkizilay
+https://www.linkedin.com/in/songulozugurler/
 
-HackerOne
+**Portfolio**
 
-➡️ https://hackerone.com/meddsa
+https://songul-kizilay.github.io/
 
-YouTube
+**HackerOne**
 
-➡️ https://youtube.com/sixpon
+https://hackerone.com/meddsa
