@@ -1,4 +1,4 @@
-# Hi, I'm Songül Kızılay 👋
+# Hi, I'm Songül Kızılay 
 
 I'm a Computer Engineer interested in web application security, bug bounty, and security research.
 
