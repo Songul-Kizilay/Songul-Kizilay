@@ -18,19 +18,8 @@ Recently, I've also started exploring how AI can assist security researchers dur
 
 ---
 
-## Current Project
-
-### Cerberus *(Work in Progress)*
-
-Cerberus is an AI-assisted security research project designed to support reconnaissance, technology analysis, and security learning.
-
-The project is currently in active development.
-
----
-
 ## Selected Projects
 
-- **Cerberus** *(In Development)* – AI-assisted security research project.
 - **Serenity** – Reconnaissance automation framework.
 - **unionhunter** – Helper tool for identifying potential UNION-based SQL injection entry points.
 - **xfcheck** – Utility for checking X-Forwarded-* header handling.
